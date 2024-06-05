@@ -7,7 +7,7 @@
 
 2. firebase/firebase.ino -> Arduino code for monitoring users/attendes.
 
-3. attendence-system -> Web dashboard code
+3. RDNA -> Web dashboard code
 
 
 ## CIRCUIT DIAGRAM
